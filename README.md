@@ -81,7 +81,7 @@ int main(void)
 // 本地变量不会默认初始化的 
 //solution：初始化数组 c[i][j]={}；  或者  c[i][j]={0}； 
 
-git add "C:\Users\24908\Desktop\练习图片\乘法.png"
+![矩阵乘法] https://github.com/KigTing/-/blob/main/%E4%B9%98%E6%B3%95.png
 
 ## 矩阵转置
 已知行列
