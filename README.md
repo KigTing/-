@@ -1,6 +1,6 @@
-#Matrix
-//markdown 已存档
- //矩阵加法
+# Matrix 
+//markdown已存档
+ ## 矩阵加法
 #include <stdio.h>
 int main(void)
 {
@@ -32,7 +32,7 @@ int main(void)
  } 
 
 
-//矩阵乘法
+## 矩阵乘法
 week two
 #include <stdio.h>
 
@@ -81,7 +81,7 @@ int main(void)
 // 本地变量不会默认初始化的 
 //solution：初始化数组 c[i][j]={}；  或者  c[i][j]={0}； 
 
-//矩阵转置
+## 矩阵转置
 已知行列
 #include <stdio.h>
 int main(void)
@@ -109,4 +109,3 @@ int main(void)
 	return 0;
 }
 //注意转置之后i，j交换数值，不要顺手就i,j上去 
-
