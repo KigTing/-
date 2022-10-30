@@ -111,4 +111,4 @@ int main(void)
 	return 0;
 }
 //注意转置之后i，j交换数值，不要顺手就i,j上去 
-
+！[转置]https://github.com/KigTing/-/blob/main/%E8%BD%AC%E7%BD%AE.png
