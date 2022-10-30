@@ -81,6 +81,8 @@ int main(void)
 // 本地变量不会默认初始化的 
 //solution：初始化数组 c[i][j]={}；  或者  c[i][j]={0}； 
 
+git add "C:\Users\24908\Desktop\练习图片\乘法.png"
+
 ## 矩阵转置
 已知行列
 #include <stdio.h>
@@ -109,3 +111,4 @@ int main(void)
 	return 0;
 }
 //注意转置之后i，j交换数值，不要顺手就i,j上去 
+
